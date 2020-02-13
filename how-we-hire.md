@@ -27,4 +27,5 @@ Those programs were designed with the purpose to give an opportunity for candida
 ### Referral
 We usually hire and to keep the quality bar, the Dwarves are encouraged to recommend friends that you think they match with the team. We think your suggestions should be helpful as you have to know the person. 
 
-We also want to spend the bonus on you rather than the headhunting agency. The company will pay a one month salary as a referral bonus to any employee who refers an applicant to our company who is hired by the company to a full-time position. The bonus is paid upon completion of the newly hired employee’s first 90 days of employment. The referring employee must still be employed with the company at the time the bonus is to be given.
+We also want to spend the bonus on you rather than the headhunting agency. The company will pay an amount of referral bonus to any employee who refers an applicant to our company who is hired by the company to a full-time position. The bonus is paid twice, once upon completion of the newly hired employee and the rest after 6 months of the first payment. The referring employee must still be employed with the company at the time the bonus is to be given.
+
